@@ -1,0 +1,53 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #dee4ff;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #ffffff;
+                                                
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width:575px;
+    height: 385px;
+    gap: 20px;
+    background-color: #1B244A;
+}
+.live-points{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    font-size: 90px;
+    width: 155px;
+    height: 120px;
+    background-color: #080001;
+    text-align: center;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.point-button button{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 18px;
+    width: 45px;
+    height: 45px;
+    color: #9AABD8;
+    border: solid 2px #9AABD8;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #1B244A;
+    margin-top: 20px;
+}
