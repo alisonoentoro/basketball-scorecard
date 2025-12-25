@@ -9,8 +9,9 @@ body{
 }
 
 h1{
-    font-family: 'Cursed Timer ULiL', sans-serif;
     color: #ffffff;
+    text-align: center;
+    font-size: 40px;
                                                 
 }
 
@@ -51,3 +52,4 @@ h1{
     background-color: #1B244A;
     margin-top: 20px;
 }
+
